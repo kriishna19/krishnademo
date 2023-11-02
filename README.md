@@ -1,4 +1,4 @@
 # krishnademo
-code for a song repository.
+Code for a song repository.
 <br>
 Author - Krishna J.
